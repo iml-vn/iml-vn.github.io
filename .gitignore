@@ -34,7 +34,7 @@ vignettes/*.pdf
 .Rproj.user
 
 # The book files
-manuscript/_book/
+#manuscript/_book/
 manuscript/_bookdown_files/
 # temporary ones
 manuscript/interpretable-ml*
